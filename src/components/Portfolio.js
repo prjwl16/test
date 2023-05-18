@@ -4,7 +4,7 @@ const Portfolio = () => {
     return (
         <div stydnn edle={{border: `2px solid red`}}>
             
-        </div>fekl
+        </div>
     );
 };
 
